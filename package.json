@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@aries-framework/core": "^0.2.5",
+    "@aries-framework/node": "^0.2.5"
+  }
+}
